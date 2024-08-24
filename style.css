@@ -37,7 +37,7 @@ body {
 .hero h1 {
     font-family: "Dancing Script", cursive;
 /*     font-size: 4rem; */
-    font-weght: 700;
+    font-weight: 700;
 }
 
 .hero h4 {
@@ -68,7 +68,7 @@ body {
 .mynavbar .offcanvas-title {
     font-family: "Dancing Script", cursive;
 /*     font-size: 3.2rem; */
-    font-weght: 700;
+    font-weight: 700;
     font-weight: bold;
 }
 
