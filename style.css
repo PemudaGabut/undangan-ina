@@ -35,8 +35,9 @@ body {
 }
 
 .hero h1 {
-    font-family: "Sacramento", cursive;
-    font-size: 4rem;
+    font-family: "Dancing Script", cursive;
+/*     font-size: 4rem; */
+    font-weght: 700;
 }
 
 .hero h4 {
@@ -65,8 +66,9 @@ body {
 
 .mynavbar .navbar-brand, 
 .mynavbar .offcanvas-title {
-    font-family: "Sacramento", cursive;
-    font-size: 3.2rem;
+    font-family: "Dancing Script", cursive;
+/*     font-size: 3.2rem; */
+    font-weght: 700;
     font-weight: bold;
 }
 
