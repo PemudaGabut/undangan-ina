@@ -100,7 +100,7 @@ body {
 }
 
 .home {
-    background-image: url(img/bg\ 1.jpg);
+    background-color: #F8F6F4;
     background-size: cover;
     min-height: 100vh;
     margin-top: -5rem;
@@ -165,7 +165,7 @@ body {
 }
 
 .info {
-    background-color: #fdf7e9;
+    background-color: #E3F4F4;
     color: white;
     padding-top: 10rem;
     padding-bottom: 8rem;
@@ -221,7 +221,7 @@ body {
 .story {
 padding-top: 10rem;
 padding-bottom: 8rem;
-background-color: #fdfaf1;
+background-color: #D2E9E9;
 }
 
 .gallery,
